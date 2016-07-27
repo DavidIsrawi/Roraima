@@ -1,0 +1,21 @@
+/* Empty. Add your own CSS if you like */
+.star>.item-content {
+  background-color: #EEE8D6 !important;
+}
+
+.splash {
+  background-image: url(http://forums.macrumors.com/attachments/ucf-knights-01-png.565427/);
+  background-repeat:no-repeat;
+  background-size:cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+
+}
+
+.branding {
+  text-align: center;
+  color: white;
+  font-size: 150%;
+  margin-top: 15%;
+}
