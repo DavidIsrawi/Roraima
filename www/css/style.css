@@ -3,6 +3,11 @@
   background-color: #EEE8D6 !important;
 }
 
+body {
+  cursor: url('https://www.http://ionicframework.com/img/finger.png');
+
+}
+
 .splash {
   background-image: url(http://forums.macrumors.com/attachments/ucf-knights-01-png.565427/);
   background-repeat:no-repeat;
@@ -18,4 +23,34 @@
   color: white;
   font-size: 150%;
   margin-top: 15%;
+}
+
+.item-divider {
+  background-color: #EEE8D6;
+}
+
+.bar-positive, .tabs-positive>.tabs {
+  background-color: #417D9A !important;
+  border-color: #417D9A;
+}
+
+.item-thumbnail-left img {
+  border-radius: 10px;
+}
+
+.item h3 {
+  font-size: 1.2rem;
+  font-weight: bold;
+  color: #417D9A;
+}
+
+.dayhighlight {
+  background-color: #9EC6DE;
+  border-top: 20px solid #417D9A;
+}
+
+.dayhighlight h2 {
+  color: #417D9A;
+  font-size: 2rem;
+  font-weight: 200;
 }
