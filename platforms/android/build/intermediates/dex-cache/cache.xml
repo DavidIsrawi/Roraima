@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/David/Documents/WorkspaceIonic/Roraima/platforms/android/build/intermediates/exploded-aar/android/CordovaLib/unspecified/debug/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="d80e37e26a3906ff84c8330970864797ee3cd709">
+        <dex dex="/Users/David/Documents/WorkspaceIonic/Roraima/platforms/android/build/intermediates/pre-dexed/debug/CordovaLib-unspecified-debug_9f8034b527a3049f2eee7eea7e4d07a1aa709c88.jar" />
+    </item>
+
+</items>
