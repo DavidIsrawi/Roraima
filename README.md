@@ -10,3 +10,6 @@ Features:
 
 App written for the following online class:
 Building a Mobile App with AngularJS 1 and Ionic - by Ray Villalobos (lynda.com)
+
+Rundown:
+![Alt text](/www/img/roraimaandroid.gif?raw=true "Roraima")
