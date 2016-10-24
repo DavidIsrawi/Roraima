@@ -1,7 +1,7 @@
 {
-  "name": "roraima",
+  "name": "roraima2",
   "version": "1.1.1",
-  "description": "Roraima: An Ionic project",
+  "description": "Roraima2: An Ionic project",
   "dependencies": {
     "gulp": "^3.5.6",
     "gulp-sass": "^2.0.4",
@@ -24,6 +24,10 @@
   ],
   "cordovaPlatforms": [
     "ios",
-    "android"
+    {
+      "platform": "ios",
+      "version": "",
+      "locator": "ios"
+    }
   ]
 }
